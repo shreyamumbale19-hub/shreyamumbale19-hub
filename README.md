@@ -12,7 +12,7 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 3rd year CS undergrad · Bengaluru · Batch of 2026
+- 🎓 3rd year CS undergrad · Bengaluru · Batch of 2023
 - 🌱 Currently grinding — **DSA + Spring Boot**
 - 🎯 Goal — Software Engineer at a Product Company
 - 💡 I solve one LeetCode problem every single day
