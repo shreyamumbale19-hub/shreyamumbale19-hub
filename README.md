@@ -151,8 +151,9 @@
 
   <hr>
   <p align="center">
-  <i> The stars never question those who keep moving forward. ⭐</i>
+  <i>星光不问赶路人 — The stars never question those who keep moving forward. ⭐</i>
 </p>
+```
 
 </div>
 
