@@ -43,7 +43,7 @@
   </td>
 
   <td align="center" valign="top" width="40%">
-    <b>📊 GitHub Stats</b><br><br>
+    <b>📊 GitHub Stats </b><br><br>
     <img src="https://github-readme-stats.vercel.app/api?username=shreyamumbale19-hub&show_icons=true&theme=radical&hide_border=true&count_private=true" width="100%"/><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyamumbale19-hub&layout=compact&theme=radical&hide_border=true" width="100%"/><br>
     <img src="https://streak-stats.demolab.com?user=shreyamumbale19-hub&theme=radical&hide_border=true" width="100%"/>
